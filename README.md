@@ -28,8 +28,8 @@ E ainda temos um notebook só com métodos de **Seleção de Atributos**:
 2. Baixe e instale o [Miniconda](https://conda.io/miniconda.html).
 3. Abra o terminal e digite os seguintes comandos para instalar o ambiente:
     ```sh
-    $ conda create -n ds-studies python=3.7 
-    $ conda activate ds-studies 
+    $ conda create -n ds-studies python=3.7
+    $ conda activate ds-studies
     $ conda install --file requirements.txt
     ```
 
@@ -42,3 +42,7 @@ Siga os passos abaixo sempre que quiser executar os códigos desse repositório.
     ```sh
     $ jupyter lab
     ```
+
+## REFERENCES
+[100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  
+[Machine_Learning](https://github.com/arnaldog12/Machine_Learning)
