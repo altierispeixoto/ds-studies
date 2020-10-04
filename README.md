@@ -44,5 +44,9 @@ Siga os passos abaixo sempre que quiser executar os códigos desse repositório.
     ```
 
 ## REFERENCES
-[100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  
-[Machine_Learning](https://github.com/arnaldog12/Machine_Learning)
+[CS 221 ― Artificial Intelligence](https://stanford.edu/~shervine/teaching/cs-221/)
+[CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)  
+[CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)  
+[MIT - Data Science Tools](https://www.mit.edu/~amidi/teaching/data-science-tools/)  
+[100 Days Of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  
+[arnaldog12 - Machine Learning](https://github.com/arnaldog12/Machine_Learning)
