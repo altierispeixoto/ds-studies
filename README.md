@@ -61,3 +61,5 @@ Siga os passos abaixo sempre que quiser executar os códigos desse repositório.
 [MIT - Data Science Tools](https://www.mit.edu/~amidi/teaching/data-science-tools/)  
 [100 Days Of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  
 [arnaldog12 - Machine Learning](https://github.com/arnaldog12/Machine_Learning)
+
+https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk
