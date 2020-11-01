@@ -32,7 +32,13 @@ Esse repositório foi criado com a intenção de difundir o ensino de Machine Le
 |                                            |                                                |              |
 |                                            |                                                |                |
 
+---
+**Cases**
 
+[Topic Modeling with LDA](machine-learning/cases/nlp/lda/mkt/lda.ipynb)  
+[Sentiment analysis](machine-learning/cases/nlp/sentiment_analysis/sentiment-analysis.ipynb)  
+
+---
 
 # Instalação
 1. Baixe ou clone o repositório.
